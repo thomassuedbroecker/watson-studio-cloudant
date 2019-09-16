@@ -1,6 +1,6 @@
 # watson-studio-cloudant
 
-Small sample how to use Node-RED, Watson IoT, Watson Studio and Cloudant.
+Small sample, how to use Node-RED, Watson IoT, Watson Studio and Cloudant. This github only contains the notebook.
 
 Related blog post [www.suedbroecker.net](https://suedbroecker.net/)
 
